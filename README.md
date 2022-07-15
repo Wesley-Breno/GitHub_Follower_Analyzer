@@ -1,14 +1,14 @@
-<h1>
-Analise de seguidores do GitHub
-</h1>
-<div>
-  <h3>
-  Projeto que fiz com Web Scraping e Selenium para analisar os seguidores do usuario e as pessoas que ele segue.
-  </h3>
-  <br>
-  <p>
-  | <strong> Funcoes do software </strong> |
-  </p>
-  <li> Mostrar as pessoas que o usuario segue, mas essas pessoas nao seguem o usuario de volta.
-  <li> Mostrar as pessoas que seguem o usuario, mas o usuario nao segue de volta.
-</div>
+# Analisador de seguidores do GitHub
+## Por que a criação deste software?
+
+A ideia da criação deste software veio quando eu estava estudando sobre Web Scraping, e o framework Selenium. 
+
+Com isso, acabei tendo algumas ideias de projetos, o ‘Analisa seguidores’ foi o primeiro a ser pensado e feito.
+
+## Por que usar o software?
+
+Quem nunca teve vontade de saber se o ‘amiguinho’ deixou de seguir voce ne? O objetivo deste software é exatamante esse. Mostrar para o usuario as pessoas que nao seguem ele de volta, e ate mesmo as pessoas que o usuario nao segue de volta.
+
+## Me ajude a melhorar este projeto
+
+Tem alguma ideia ou sugestão de melhoria no projeto? Que tal deixar uma issue/pull request?
