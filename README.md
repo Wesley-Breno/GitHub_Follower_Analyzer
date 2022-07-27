@@ -7,7 +7,7 @@ Com isso, acabei tendo algumas ideias de projetos, o ‘Analisa seguidores’ fo
 
 ## ► Por que usar o software?
 
-Quem nunca teve vontade de saber se o ‘amiguinho’ deixou de seguir voce ne? O objetivo deste software é exatamante esse. Mostrar para o usuario as pessoas que nao seguem ele de volta, e ate mesmo as pessoas que o usuario nao segue de volta.
+Quem nunca teve vontade de saber se o ‘amiguinho’ deixou de seguir voce ne? O objetivo deste software é exatamante esse. Mostrar para o usuario as pessoas que nao seguem ele de volta, e ate mesmo as pessoas que o usuario nao segue de volta. Podendo assim usar os metodos para fazer o computador deixar de seguir as pessoas que nao ti seguem de volta, ou seguir as pessoas que seguem voce mas voce nao as segue de volta.
 
 ## ► Me ajude a melhorar este projeto
 
