@@ -6,7 +6,8 @@
 
 <h2 align="center">Descrição</h2>
 <p>
-  Programa feito em Python para fazer uma análise dos seguidores do usuário. Mostrar para o usuário as pessoas que não o seguem de volta e também as pessoas que o usuário não segue de volta. Assim, é possível usar os métodos para fazer o computador deixar de seguir as pessoas que não o seguem de volta ou seguir as pessoas que o seguem, mas ele não as segue de volta.
+  Programa feito em Python para fazer uma análise dos seguidores do usuário. O programa é responsavel por dar unfollow em quem nao segue o usuario de volta, tambem é
+  possivel dar follow em quem o usuario ainda nao seguiu de volta. Metodos automatizados para o usuario nao se preocupar em ficar fazendo a gestao de seguidores.
 </p>
 
 <h2 align="center">Como usar?</h2>
