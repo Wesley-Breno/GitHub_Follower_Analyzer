@@ -14,18 +14,14 @@
 <p>
   Para ter acesso ao projeto, basta baixar o codigo clicando neste link: https://github.com/Wesley-Breno/Analisa-seguidores-do-GitHub/archive/refs/heads/main.zip
   <br>Apartir que o projeto for baixado, abra ele no seu editor de codigo e baixe os requerimentos do projeto e use o programa em seu projeto ou use diretamente do codigo do projeto. O programa usara a função print() para mostrar cada informação que foi pedida pelo usuario.
-  
-  <h3>Mostrando quem não segue o usuario de volta</h3>
-  <img src="images_readme/funcao1.png">
-  
-  <h3>Mostrando quem o usuario nao segue de volta</h3>
-  <img src="images_readme/funcao2.png">
-  
+
   <h3>Fazendo o programa dar follow em quem o usuario nao segue de volta</h3>
-  <img src="images_readme/funcao3.png">
+  <img src="images_readme/seguindo.png">
   
   <h3>Fazendo o programa dar unfollow em quem nao segue o usuario de volta</h3>
-  <img src="images_readme/funcao4.png">
+  <img src="images_readme/unfollow.png">
+
+  <h4 align='center'>Lembre-se de chamar as funções get_followers e get_following e armazenar os seus retornos em uma variavel como esta na imagem acima</h4>
 </p>
 
 <h2 align="center">Tecnologias usadas</h2>
