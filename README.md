@@ -1,30 +1,30 @@
-<h1 align="center">Analisador de seguidores do github</h1>
+<h1 align="center">Github Follower Analyzer</h1>
 
 <p align="center">
   <img src="images_readme/web scraping.png">
 </p>
 
-<h2 align="center">Descrição</h2>
+<h2 align="center">Description</h2>
 <p>
-  Programa feito em Python para fazer uma análise dos seguidores do usuário. O programa é responsavel por dar unfollow em quem nao segue o usuario de volta, tambem é
-  possivel dar follow em quem o usuario ainda nao seguiu de volta. Metodos automatizados para o usuario nao se preocupar em ficar fazendo a gestao de seguidores.
+  Program made in Python to analyze the user's followers. The program is responsible for unfollowing those who do not follow the user back, it is also
+  It is possible to follow back those that the user has not yet followed. Automated methods so the user doesn't have to worry about managing followers.
 </p>
 
-<h2 align="center">Como usar?</h2>
+<h2 align="center">How to use?</h2>
 <p>
-  Para ter acesso ao projeto, basta baixar o codigo clicando neste link: https://github.com/Wesley-Breno/Analisa-seguidores-do-GitHub/archive/refs/heads/main.zip
-  <br>Apartir que o projeto for baixado, abra ele no seu editor de codigo e baixe os requerimentos do projeto e use o programa em seu projeto ou use diretamente do codigo do projeto. O programa usara a função print() para mostrar cada informação que foi pedida pelo usuario.
+  To access the project, simply download the code by clicking on this link: https://github.com/Wesley-Breno/Analisa-seguidores-do-GitHub/archive/refs/heads/main.zip
+  <br>Once the project is downloaded, open it in your code editor and download the project requirements and use the program in your project or use directly from the project code. The program will use the function print() to show each piece of information requested by the user.
 
-  <h3>Fazendo o programa dar follow em quem o usuario nao segue de volta</h3>
+  <h3>Making the program follow those who the user does not follow back</h3>
   <img src="images_readme/seguindo.png">
   
-  <h3>Fazendo o programa dar unfollow em quem nao segue o usuario de volta</h3>
+  <h3>Making the program unfollow anyone who doesn't follow the user back</h3>
   <img src="images_readme/unfollow.png">
 
-  <h4 align='center'>Lembre-se de chamar as funções get_followers e get_following e armazenar os seus retornos em uma variavel como esta na imagem acima</h4>
+  <h4 align='center'>Remember to call the get_followers and get_following functions and store their returns in a variable like the one in the image above</h4>
 </p>
 
-<h2 align="center">Tecnologias usadas</h2>
+<h2 align="center">Technologies used</h2>
 <p align="center">
   <a href='https://www.python.org/' target='_blank'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='40' height='40'>
